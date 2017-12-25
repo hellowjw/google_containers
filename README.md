@@ -1,1 +1,1 @@
-# 安装kubernetes1.9.0所用镜像。
+# 安装kubernetes 1.9.0所用镜像。
